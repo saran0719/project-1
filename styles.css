@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #ece6e6;
+}
+
+.ball {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+#ball1 {
+    background-color: blue;
+   
+}
+
+#ball2 {
+    background-color: red;
+}
+
+#ball3 {
+    background-color: green;
+}
